@@ -54,3 +54,16 @@ $make-knowledge-cards
 - **例子或自测：** 记录时段可以帮助发现什么？
 
 完整输出的卡片数量取决于文章中可提取的独立重要知识点。
+
+## 推荐阅读
+
+以下博客涵盖科技资讯、开源实践和编程思考，供阅读与学习参考。
+
+| 博客 | 内容简介 | GitHub 仓库 |
+| --- | --- | --- |
+| [阮一峰的网络日志](https://www.ruanyifeng.com/blog/) | 中文科技资讯、编程知识与实用工具推荐；科技爱好者周刊适合拓展阅读视野。 | [ruanyf/weekly](https://github.com/ruanyf/weekly)（周刊仓库） |
+| [DIYgod](https://diygod.cc/) | 开源项目、个人建站、NAS 实践与生活记录。 | [DIYgod/diygod.me](https://github.com/DIYgod/diygod.me) |
+| [Anthony Fu](https://antfu.me/) | 前端工具、开源实践与开发思考，适合关注 Vue、Vite 等生态的读者。 | [antfu/antfu.me](https://github.com/antfu/antfu.me) |
+| [Overreacted](https://overreacted.io/) | Dan Abramov 的英文博客，分享 React、JavaScript 与编程思路。 | [gaearon/overreacted.io](https://github.com/gaearon/overreacted.io) |
+
+以上为原站链接与简要介绍，文章版权归原作者所有。使用本 Skill 整理阅读笔记时，请自行提供有权使用的文章文本，并在分享笔记时注明作者和原文链接；本 Skill 不会自动抓取这些网站。
